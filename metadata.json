@@ -1,0 +1,5 @@
+{
+  "name": "RPS Battle Arena",
+  "description": "A 1v1 Rock-Paper-Scissors battle game against a random AI bot.",
+  "requestFramePermissions": []
+}
